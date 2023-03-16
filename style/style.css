@@ -1,0 +1,23 @@
+.mainimg-container{
+    background-color: grey;
+    height: 400px;
+}
+
+.mainimg{
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.mainimg2{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+
+}
+
+
+.tableIcon{
+    width: 30px;
+    height: 30px;
+}
